@@ -1,0 +1,39 @@
+/*span{
+	height: 50px;
+	width: 75px;
+	background:#00ff00;
+}
+div{
+	height:100px;
+	width:45%;
+	background: #00ffff;
+}
+p{
+	background: #ff00ff;
+	width:30%;
+	height:100px;
+	overflow: scroll;
+}
+div{
+	width:30%;
+	background:#00ffff;
+	height:400px;
+
+	display:inline-block;
+	float:left;
+	overflow:scroll;
+}*/
+/*body{
+     display:table;
+}
+div{
+	width:30%;
+	background:#00ffff;
+	display:table-cell;
+	visibility:visible;
+}*/
+body{
+	color:#555555;
+	background-color: #FF0000;
+	font-family: Times,Arial,Cursive;
+}
